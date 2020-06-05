@@ -1,5 +1,5 @@
-# BitcoinUSA coin
-A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying and paying for cloud services from MSFT Azure.
+# BitcoinUSA coin - BUS
+A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying and paying for cloud services from MSFT Azure. Symbol: BUS
 
 Currently can be mined on GPU Windows and Linux PC's!
 
