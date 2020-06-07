@@ -12,10 +12,9 @@ See BitcoinUSA_WhitePaper.md for coin white paper - press release.  Coin to be u
 
 # New features in Dev.
 
-1.  At least two nodes running on MSFT Azure for high availability.
-2.  Integration into CoinGold Fintech app for sending Bitcoin and BitcoinUSA cryptocurrency.
-3.  Update SRC repository to incorporate Quantum computing so that mining can be done in the Cloud as cloud Quantum computing hardware/cloud offerings make their way to public domain.
-4.  MAC Wallet
+1.  At least two super nodes running on MSFT Azure for high availability.
+2.  Integration into CoinGold Fintech app for sending Bitcoin and BitcoinUSA cryptocurrency and turning crypto into native currency.
+3.  MAC Wallet
 
 BitcoinUSA Core and Wallets can run on Windows and Linux platforms. See Build docs for OS instructions.
 
