@@ -1,12 +1,12 @@
 # BitcoinUSA coin - BUS
-A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying and paying for cloud services from MSFT Azure. Symbol: BUS
+A new USA cryptocurrency based on Bitcoin blockchain frameworks for buying and paying for cloud services. Symbol: BUS
 
 Currently can be mined on GPU Windows and Linux PC's!
 
 # What is BitcoinUSA coin?
 
 BitcoinUSA is a digital currency that enables instant payments to anyone, anywhere in the world. BitcoinHealth coin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. BitcoinUSA Core is the name of open source software which enables the use of this currency.
-See BitcoinUSA_WhitePaper.md for coin white paper - press release.  Coin to be used to buy credits which can applied as payment for Cloud Services/Utilization.
+See BitcoinUSA_WhitePaper.md for coin white paper - press release.  Coin to be used to buy credits which can applied as payment for Cloud Services/Utilization. Will integrate into PegasusTech application for sending money across country borders.
 
 
 
